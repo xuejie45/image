@@ -1,0 +1,100 @@
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "实践经历",
+    "projectList": "项目与竞赛经验",
+    "skillList": "核心技能",
+    "awardList": "职业技能与荣誉",
+    "workList": "个人作品",
+    "aboutme": "个人评价"
+  },
+  "avatar": {
+    "src": "",
+    "hidden": true
+  },
+  "profile": {
+    "name": "王金坪",
+    "email": "w18024900758@163.com",
+    "mobile": "18024900758",
+    "github": "",
+    "zhihu": "",
+    "workExpYear": ""
+  },
+  "educationList": [
+    {
+      "edu_time": [
+        "2024.09.01",
+        "2026.06.30"
+      ],
+      "school": "佛山职业技术学院",
+      "major": "物联网应用技术",
+      "academic_degree": "专科"
+    }
+  ],
+  
+  "projectList": [
+    {
+      "project_name": "智能硬件与物联网应用开发竞赛项目",
+      "project_role": "系统调试与联调成员",
+      "project_time": "2022 - 2023",
+      "project_desc": "面向工业应用场景的智能硬件与物联网系统开发与调试项目。",
+      "project_content": "1. 负责设备接线、传感器接入与设备数据采集\n2. 支持系统与设备之间的数据联调与运行验证\n3. 在模拟生产环境中进行异常排查，保障系统稳定运行"
+    },
+    {
+      "project_name": "测量与控制系统装调（数字孪生方向）",
+      "project_role": "测控系统装调成员",
+      "project_time": "2023",
+      "project_desc": "面向测量与控制系统的安装、配置与功能验证项目。",
+      "project_content": "1. 完成测量与控制系统的安装、系统配置与功能验证\n2. 参与信号采集、系统状态监控及异常定位\n3. 理解测控系统在制造系统数据闭环中的支撑作用"
+    },
+    {
+      "project_name": "云计算与制造系统基础实践",
+      "project_role": "系统部署实践成员",
+      "project_time": "2024 - 2025",
+      "project_desc": "企业联合职业院校技能大赛云计算应用赛项。",
+      "project_content": "1. 在 Linux 环境下完成 Kubernetes 基础部署\n2. 学习系统构建、部署与配置管理流程\n3. 理解制造系统平台化、服务化对系统稳定性的意义"
+    }
+  ],
+  "awardList": [
+    {
+      "award_info": "计算机程序设计员（三级职业等级证书）",
+      "award_time": "2022"
+    },
+    {
+      "award_info": "测量与控制系统（单元）装调工（三级职业等级证书）",
+      "award_time": "2023"
+    },
+    {
+      "award_info": "物联网安装调试（三级职业等级证书）",
+      "award_time": "2024"
+    },
+    {
+      "award_info": "省级 / 市级智能硬件与物联网类竞赛 三等奖 / 优胜奖",
+      "award_time": "2022 - 2024"
+    },
+    {
+      "award_info": "HarmonyOS 应用开发者高级认证（Huawei Developers Certification）",
+      "award_time": "2025.12"
+    }
+    
+  ],
+  "workExpList": [
+    {
+      "company_name": "校内项目",
+      "department_name": "制造系统 / 云计算方向",
+      "work_time": [
+        "2024.09",
+        "2025.06"
+      ],
+      "work_desc": "参与制造系统与工厂软件相关实践，完成 Linux 系统环境部署与 Kubernetes 基础环境搭建，结合制造系统应用场景理解系统稳定性、可维护性及生产环境支持要求。"
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "具备制造系统与工厂软件基础，熟悉 MES / Production Systems 在产线环境中的系统部署、配置与现场支持流程。拥有设备数据采集、系统联调与生产环境问题排查经验，掌握 Linux 与 Kubernetes 基础部署能力，理解制造系统对稳定性与现场执行力的核心要求，期望在该方向长期发展。"
+  },
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
+  }
+}
