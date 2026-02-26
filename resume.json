@@ -22,10 +22,7 @@
   },
   "educationList": [
     {
-      "edu_time": [
-        "2024.09.01",
-        "2026.06.30"
-      ],
+      
       "school": "佛山职业技术学院",
       "major": "物联网应用技术",
       "academic_degree": "专科"
@@ -51,21 +48,21 @@
       "project_name": "云计算与制造系统基础实践",
       "project_role": "系统部署实践成员",
       "project_time": "2024 - 2025",
-      "project_desc": "企业联合职业院校技能大赛云计算应用赛项。",
+      "project_desc": "广东省职业院校技能大赛云计算应用赛项。",
       "project_content": "1. 在 Linux 环境下完成 Kubernetes 基础部署\n2. 学习系统构建、部署与配置管理流程\n3. 理解制造系统平台化、服务化对系统稳定性的意义"
     }
   ],
   "awardList": [
     {
-      "award_info": "计算机程序设计员（三级职业等级证书）",
+      "award_info": "计算机程序设计员（三级职业等级证书/高级工）",
       "award_time": "2022"
     },
     {
-      "award_info": "测量与控制系统（单元）装调工（三级职业等级证书）",
+      "award_info": "测量与控制系统（单元）装调工（三级职业等级证书/高级工）",
       "award_time": "2023"
     },
     {
-      "award_info": "物联网安装调试（三级职业等级证书）",
+      "award_info": "物联网安装调试（三级职业等级证书/高级工）",
       "award_time": "2024"
     },
     {
@@ -74,7 +71,7 @@
     },
     {
       "award_info": "HarmonyOS 应用开发者高级认证（Huawei Developers Certification）",
-      "award_time": "2025.12"
+      "award_time": "2025"
     }
     
   ],
